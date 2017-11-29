@@ -1,3 +1,5 @@
+""Placeholdr for program documentaion"""
+
 import sys
 
 def read_fasta(filename):
